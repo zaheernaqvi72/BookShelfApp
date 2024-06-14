@@ -1,4 +1,4 @@
-# Personal Bookshelf
+# [Bookshelf](https://book-shelf-app-seven.vercel.app/)
 
 This React application allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
@@ -35,6 +35,8 @@ Follow these steps to set up and run the project locally:
 
     ```bash
     cd BookShelfApp
+    ```
+    ```bash
     npm install
     ```
 3. **Start the Development Server:

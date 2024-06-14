@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.book-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  text-align: left;
+}
+
+input {
+  padding: 10px;
+  margin: 30px;
+  border-radius: 30px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.top-right-buttons {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
